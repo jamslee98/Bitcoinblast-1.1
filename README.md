@@ -13,7 +13,7 @@ pkg install git<br>
 cd storage *(use this to access your storage device) <br>
 cd downloads *(this dir on your storage device)  <br>
 git clone https://github.com/logicjoker/Bitcoinblast-1.1.git<br>
-cd Bitcoinblast-2.0<br>
+cd Bitcoinblast-1.1<br>
 nano config.json (put your email and pass here)<br>
 ls<br>
 php bot.php <br>
